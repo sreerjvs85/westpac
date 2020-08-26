@@ -1,3 +1,4 @@
 **/target
 src/test/screenshots
 .idea
+.DS_Store
